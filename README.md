@@ -17,6 +17,7 @@ Profiles 부분에 있는 pom.xml 삭제 (여기에 내 경우 안적혀 있었�
 2. 속성에서 MAVEN 선택
 3. Active Maven Profile 텍스트 박스에서 pox.xml을 지우고 적용
 
+<br/>
 
 
 Launching springBoot -Aplication' has encountered a problem
