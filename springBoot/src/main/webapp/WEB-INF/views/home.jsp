@@ -8,5 +8,14 @@
 </head>
 <body>
  <h2>Home Page입니다.</h2>
+ <body>
+    <form action = "student" method = "get">
+        student id : <input type = "text" name = "id"><br/>
+        <input type = "submit" value = "전송">
+    </form>
+     <form action = "student" method = "post">
+        student password : <input type = "text" name = "password"><br/>
+        <input type = "submit" value = "전송">
+    </form>
 </body>
 </html>

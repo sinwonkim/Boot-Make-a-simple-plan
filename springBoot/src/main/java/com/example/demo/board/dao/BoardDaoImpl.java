@@ -16,4 +16,6 @@ public class BoardDaoImpl implements BoardDao {
 		// TODO Auto-generated method stub
 		return sqlssion.selectOne("com.example.demo.board.mapper.BoardMapper.boardCount");
 	}
+	
+	
 }
